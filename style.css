@@ -15,3 +15,16 @@ header img{
 #Booleaner{
     color: rgb(0, 89, 205);
 }
+.sottolineato{
+    background:yellow;
+}
+.crediti{
+    font-size: 20px;
+    color: lightslategray;
+    margin: 0px;
+}
+.giorno{
+    font-size: 15px;
+    color: lightslategray;
+    margin: 0px;
+}
