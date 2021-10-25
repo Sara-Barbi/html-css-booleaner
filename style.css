@@ -1,16 +1,19 @@
 *{
     box-sizing: border-box;
-    <!-- margine a 0 e pagginghe a 0 in caso non facesse qualcosa-->
+    
 }
 header{
     background: url(img/pattern.png),rgb(80, 177, 238);
     height: 150px;
+  
+    
 }
 header img{
     width: 250px;
     position: relative;
     top: 70px;
     left: 10px;
+   
 }
 #Booleaner{
     color: rgb(0, 89, 205);
@@ -19,7 +22,7 @@ header img{
     background:yellow;
 }
 .crediti{
-    font-size: 20px;
+    font-size: 15px;
     color: lightslategray;
     margin: 0px;
 }
@@ -27,4 +30,55 @@ header img{
     font-size: 15px;
     color: lightslategray;
     margin: 0px;
+    font-size: 15px;
+}
+#info {
+    color: lightslategrey;
+    font-size: 18px;
+    margin-right: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    
+}
+#testata-tab{
+    background-color: rgb(19, 134, 228);
+    color: white;
+}
+
+.cella{
+    width: 250px;
+    background-color: lightskyblue;
+}
+.cellabianca{
+    width: 250px;
+    background-color: white;
+}
+.cellalungabianca{
+    background-color: white;
+}
+.cellalunga{
+    background-color: lightskyblue;
+}
+table{padding: 10px;
+border-collapse:collapse;
+}
+.immagine{
+    position: absolute;
+    color: white;
+    font-size: 22px;
+    margin-top: 7px;
+    margin-right: 10px;
+   
+    
+}
+
+h1{
+    font-family: 'EB Garamond', serif;
+    font-size: 50px;
+}
+main{
+    font-family: 'EB Garamond', serif;
+    font-size: 15px;
+    font-weight: normal;
 }
