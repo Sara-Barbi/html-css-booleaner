@@ -3,7 +3,7 @@
     <!-- margine a 0 e pagginghe a 0 in caso non facesse qualcosa-->
 }
 header{
-    background: url(img/pattern.png),lightskyblue;
+    background: url(img/pattern.png),rgb(80, 177, 238);
     height: 150px;
 }
 header img{
@@ -11,4 +11,7 @@ header img{
     position: relative;
     top: 70px;
     left: 10px;
+}
+#Booleaner{
+    color: rgb(0, 89, 205);
 }
