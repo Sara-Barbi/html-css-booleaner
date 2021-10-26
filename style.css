@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
     
 }
 header{
@@ -30,7 +32,7 @@ header img{
     font-size: 15px;
     color: lightslategray;
     margin: 0px;
-    font-size: 15px;
+    font-size: 10px;
 }
 #info {
     color: lightslategrey;
@@ -80,6 +82,7 @@ h1{
 main{
     font-family: 'EB Garamond', serif;
     font-size: 15px;
+    margin-left: 8px;
 }
 .sottotitolo{
     font-size: 10px;
